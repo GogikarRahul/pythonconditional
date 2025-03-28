@@ -87,4 +87,33 @@
 # print(sum)
 # print("count=",count)
 
+# num=0
+# num1=1
+# for i in range(1,20):
+#     print(num)
+#     num3=num+num1
+#     num=num1
+#     num1=num3
+
+
+
+#user_input=input("enter the choice cube o square or exit:").lower()
+# data=["square","cube","exit"]
+# while True:
+#     if(user_input==data[2]):
+#         print("you have successfully exited")
+#         break
+#     elif(user_input==data[0]):
+#         num=int(input("enter the number:"))
+#         print(num**2)
+#         user_input=input("enter the choice cube o square or exit:").lower()
+#     elif(user_input==data[1]):
+#         num=int(input("enter the number:"))
+#         print(num**3)
+#         user_input=input("enter the choice cube o square or exit:").lower()
+#     else:
+#         print("please enter a valid name")
+#         user_input=input("enter the choice cube o square or exit:").lower()
+
+
 

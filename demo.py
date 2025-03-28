@@ -167,3 +167,9 @@
 
 # fizz=int(input("enter the number:"))
 # if(fizz%15==0):
+# while True:
+#    num=int(input("enter the number :"))
+#    if(num<0):
+#        print("you reached ")
+#        break
+   
